@@ -3,7 +3,7 @@
 Exploratory analysis and predictive modelling of telecom customer churn in Python. The project identifies which customers are most likely to leave and compares three classifiers on how well they find them.
 
 ## Dataset
-[N] telecom customers with contract, service, billing and tenure attributes. Approximately 30% of customers churned.
+5043 telecom customers with contract, service, billing and tenure attributes. Approximately 30% of customers churned.
 
 ## Key Findings
 - **Contract type:** month-to-month customers churned at 46%, compared with 13% for one-year and 3% for two-year contracts.
